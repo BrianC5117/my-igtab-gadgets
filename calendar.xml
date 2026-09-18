@@ -1,8 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-<ModulePrefs title="My Custom Unified Calendar" description="Custom calendar view pulling personal and imported feeds." height="400">
-<Require feature="dynamic-height"/>
-</ModulePrefs>
-<Content type="html">
-<![CDATA[ <div style="width:100%; height:100%; overflow:auto;"<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&src=YnJpYW5lY2FybWFuQGdtYWlsLmNvbQ&src=Zm4zMW0yaHQ5djd0djNnMHRnbmU3YmRvZmlzY2JoNWFAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=bDBubzBqZDc1MnYyZ2M1c3BoNGE1dnByNXRoOHFqNWxAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=cmpvMWpqazRyYTZqbjZlMW1zZjltaWQ2ZWtzMjdobjFAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZTZrYjNmaW04dmxja2RwNDQ1ajlra2FnMDY0bm1lajhAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285f4&color=%23a79b8e&color=%23e4c441&color=%23009688&color=%23039be5&color=%23ad1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>/div> ]]>
-</Content>
+<ModulePrefs title="My Custom Unified Calendar" title_url="https://igtab.com" category="tools" description="Custom calendar view pulling personal and imported feeds." author="Brian" author_email="brianecarman@gmail.com" screenshot="https://igtab.com/gadgets/google/calendar/screenshot.png" thumbnail="https://igtab.com/gadgets/google/calendar/thumbnail.png" height="500"><Require feature="dynamic-height"/></ModulePrefs>
+<Content type="html"><![CDATA[<div style="width:100%; height:100%; overflow:hidden;"><iframe src="https://google.com" style="border:none" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>]]></Content>
 </Module>
